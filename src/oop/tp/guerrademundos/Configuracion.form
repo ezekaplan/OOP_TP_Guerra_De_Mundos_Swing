@@ -48,17 +48,17 @@
           <text value="Cantidad de planetas"/>
         </properties>
       </component>
-      <component id="7b917" class="javax.swing.JTextField" binding="txtCantJugadores">
+      <component id="3a95e" class="javax.swing.JTextField" binding="txtCantPlanetas">
         <constraints>
-          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
         <properties/>
       </component>
-      <component id="3a95e" class="javax.swing.JTextField" binding="txtCantPlanetas">
+      <component id="7b917" class="javax.swing.JTextField" binding="txtCantJugadores">
         <constraints>
-          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
